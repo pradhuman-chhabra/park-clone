@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Park Plus Token (PPT)</title>
+        <title>Park GHO Family</title>
         <meta name="description" content="Aspiring Road Safety" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -20,7 +20,7 @@ export default function Home() {
           <div className={styles.heroSection}>
             <Container>
               <p style={{ fontSize: "25px", fontStyle: "italic" }}>
-                <strong>Park Plus Token(PPT)</strong> Revolutionizing
+                <strong>Park GHO Family</strong> Revolutionizing
                 Sustainable Mobility & Road Safety
               </p>
 
@@ -105,7 +105,7 @@ export default function Home() {
             </Col>
           </Row>
         </Container>
-        <Container>
+/*        <Container>
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">PESTLE Analysis</h1>
 
@@ -136,8 +136,8 @@ export default function Home() {
               </li>
             </ul>
           </Col>
-        </Container>
-
+        </Container>  */
+/*
         <Container>
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Token Mechanism</h1>
@@ -146,8 +146,8 @@ export default function Home() {
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
-        </Container>
-
+        </Container>  */
+/*
         <Container>
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Token Fund-Raising Objectives</h1>
@@ -185,10 +185,10 @@ export default function Home() {
           />
         </Col>
         <Container>
-          <h1 className="section-heading">Vision</h1>
-
+          <h1 className="section-heading">Vision</h1>  */
+/*
           <Row>
-            <Col className="bot-marg" md="12" lg="6">
+           <Col className="bot-marg" md="12" lg="6">
               <img src="/img/Mask group.png" style={{ width: "100%" }} />
             </Col>
             <Col className="bot-marg" md="12" lg="6">
@@ -201,9 +201,9 @@ export default function Home() {
                 analyze past incidents, as well as predict future incidents
               </h5>
             </Col>
-          </Row>
+          </Row>  */
         </Container>
-
+/*
         <Container>
           <h1 className="section-heading">White Paper</h1>
 
@@ -214,7 +214,7 @@ export default function Home() {
               Click here
             </a>
           </p>
-        </Container>
+        </Container>  */
       </>
     </Layout>
   );
