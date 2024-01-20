@@ -105,88 +105,10 @@ export default function Home() {
             </Col>
           </Row>
         </Container>
-/*        <Container>
-          <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">PESTLE Analysis</h1>
+        
 
-            <ul>
-              <li>
-                <strong>Political:</strong> Aligns with government initiatives
-                for safer roads and smart city development.
-              </li>
-              <li>
-                <strong>Economic:</strong> Reduces economic burden caused by
-                road incidents and insurance claims.
-              </li>
-              <li>
-                <strong>Social/Cultural:</strong> Fosters a culture of
-                responsible driving and community-driven road safety.
-              </li>
-              <li>
-                <strong>Technological:</strong> Leverages blockchain, AI, and
-                IoT for advanced incident prevention.
-              </li>
-              <li>
-                <strong>Legal:</strong> Compliance with traffic regulations,
-                data privacy, and insurance standards.
-              </li>
-              <li>
-                <strong>Environmental:</strong> Promotes eco-friendly mobility
-                practices through reduced incidents.
-              </li>
-            </ul>
-          </Col>
-        </Container>  */
-/*
-        <Container>
-          <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">Token Mechanism</h1>
-            <img
-              src="/img/Token functioning.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-        </Container>  */
-/*
-        <Container>
-          <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">Token Fund-Raising Objectives</h1>
-            <img
-              src="/img/useoffunds.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-        </Container>
-        <Container>
-          <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">Impact</h1>
-            <img
-              src="/img/neartransportthumb.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-          <Col className="bot-marg" md="12" lg="12">
-            <img
-              src="/img/11.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-          <Col className="bot-marg" md="12" lg="12">
-            <img
-              src="/img/drone.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-        </Container>
-        <Col className="bot-marg" md="12" lg="12">
-          <img
-            src="/img/26.png"
-            style={{ width: "100%", borderRadius: "20px" }}
-          />
-        </Col>
-        <Container>
           <h1 className="section-heading">Vision</h1>  */
-/*
+
           <Row>
            <Col className="bot-marg" md="12" lg="6">
               <img src="/img/Mask group.png" style={{ width: "100%" }} />
@@ -203,18 +125,6 @@ export default function Home() {
             </Col>
           </Row>  */
         </Container>
-/*
-        <Container>
-          <h1 className="section-heading">White Paper</h1>
-
-          <p>
-            {" "}
-            Click here to view the white paper{" "}
-            <a href="https://docs.google.com/document/d/1GLyrNK3_Hd-DsL06RussjYluMox2v-EokIgzJtrcglQ/edit?usp=sharing">
-              Click here
-            </a>
-          </p>
-        </Container>  */
       </>
     </Layout>
   );
