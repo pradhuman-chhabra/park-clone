@@ -158,7 +158,7 @@ export default function Home() {
           </Col>
         </Container>
         <Container>
-          <Col className="bot-marg" md="12" lg="12">
+          {/* <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Impact</h1>
             <img
               src="/img/neartransportthumb.png"
@@ -176,8 +176,8 @@ export default function Home() {
               src="/img/drone.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
-          </Col>
-        </Container>
+          </Col> */}
+        </Container> 
         <Col className="bot-marg" md="12" lg="12">
           <img
             src="/img/26.png"

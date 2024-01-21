@@ -34,12 +34,12 @@ export default function Header() {
             <Nav.Link href="/">Home</Nav.Link>
 
             {/* <Nav.Link href="/vision">Architechture</Nav.Link> */}
-            <Nav.Link href="/partners">Partners</Nav.Link>
+            {/* <Nav.Link href="/partners">Partners</Nav.Link> */}
 
-            <Nav.Link href="/platform">Impact</Nav.Link>
+            {/* <Nav.Link href="/platform">Impact</Nav.Link> */}
             <Nav.Link href="/wallet">Miles Wallet</Nav.Link>
             {/* <Nav.Link href="/workflow">Traffic Management System</Nav.Link> */}
-            <Nav.Link href="/teammembers">Team</Nav.Link>
+            {/* <Nav.Link href="/teammembers">Team</Nav.Link> */}
             <Nav.Link href="/form">Sign-up & Referral</Nav.Link>
             {/* <Nav.Link href="/testimonials">Notable Achievements </Nav.Link> */}
           </Nav>
